@@ -11,16 +11,4 @@
         }
     ], 
     "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "url", 
-            "identifier": "https://github.com/XENON1T/s2only_data_release/tree/1.0", 
-            "relation": "isSupplementTo"
-        }, 
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.3982637", 
-            "relation": "isVersionOf"
-        }
-    ]
 }
