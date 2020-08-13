@@ -1,0 +1,26 @@
+{
+    "description": "<p>This release contains data from the analysis described in the paper:</p>\n<ul>\n<li>Aprile, E. <em>et al.</em> (XENON collaboration), <a href=\"https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.123.251801\">Phys. Rev. Lett. 123, 251801</a> (2019). </li>\n</ul>\n<p>This data release allows researchers to compute limits on their own dark matter models using the XENON1T S2-only data. Please cite our paper if you do so. For questions or comments, contact xenon@lngs.infn.it.</p>", 
+    "license": "other-open", 
+    "title": "XENON1T/s2only_data_release: XENON1T S2-only data release", 
+    "version": "1.0", 
+    "upload_type": "software", 
+    "publication_date": "2020-08-13", 
+    "creators": [
+        {
+            "name": "XENON Collaboration"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/XENON1T/s2only_data_release/tree/1.0", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.3982637", 
+            "relation": "isVersionOf"
+        }
+    ]
+}

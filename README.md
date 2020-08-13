@@ -1,6 +1,8 @@
 XENON1T S2-only data release
 ============================
 
+[![DOI](https://zenodo.org/badge/267650110.svg)](https://zenodo.org/badge/latestdoi/267650110)
+
 XENON Collaboration, 2020
 
 This release contains data from the analysis described in the paper: 
